@@ -184,7 +184,7 @@ div.card-reveal > p { /*Justificamos el texto de descripción de las card's para
 
 
 /*Media Queries para pantallas pequeñas (celulares)*/
-@media screen and (min-width: 0px) and (max-width: 522px) {
+@media screen and (min-width: 0px) and (max-width: 700px ) {
 	.logo_img { /*Modificamos el tamaño de la imagen para que se vea más chica y le quitamos el margin para que se centre sola*/
 		height: 75px;
 		margin-left: 0;
